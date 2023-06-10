@@ -1,0 +1,6 @@
+Added 3 new entities
+Added 3 new functions (testing)
+Added food item
+Added weapon item
+
+NODECLIENT V1.0.0
